@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OVnDtPxk/AU=",
+  "dgSpecHash": "WdfRSwzd3us=",
   "success": true,
-  "projectFilePath": "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\Userservice.Domain\\UserService.Domain.csproj",
+  "projectFilePath": "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
