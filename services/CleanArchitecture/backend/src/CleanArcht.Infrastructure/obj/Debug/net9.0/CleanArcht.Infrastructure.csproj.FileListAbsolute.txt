@@ -36,3 +36,4 @@ D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.In
 D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.pdb
 D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.genruntimeconfig.cache
 D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\ref\CleanArcht.Infrastructure.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Infrastructure\obj\Debug\net9.0\CleanArcht.Infrastructure.sourcelink.json

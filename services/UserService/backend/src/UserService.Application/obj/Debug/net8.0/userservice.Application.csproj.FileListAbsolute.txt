@@ -28,3 +28,4 @@ D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Applica
 D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\refint\UserService.Application.dll
 D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.pdb
 D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\ref\UserService.Application.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Application\obj\Debug\net8.0\UserService.Application.sourcelink.json

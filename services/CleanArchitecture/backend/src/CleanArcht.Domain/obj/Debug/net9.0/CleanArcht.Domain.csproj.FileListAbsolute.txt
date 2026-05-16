@@ -20,3 +20,4 @@ D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Do
 D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Domain\obj\Debug\net9.0\refint\CleanArcht.Domain.dll
 D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Domain\obj\Debug\net9.0\CleanArcht.Domain.pdb
 D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Domain\obj\Debug\net9.0\ref\CleanArcht.Domain.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.Domain\obj\Debug\net9.0\CleanArcht.Domain.sourcelink.json

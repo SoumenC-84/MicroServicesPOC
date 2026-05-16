@@ -36,3 +36,4 @@ D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrast
 D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.pdb
 D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.genruntimeconfig.cache
 D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\ref\UserService.Infrastructure.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.sourcelink.json

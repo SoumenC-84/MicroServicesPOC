@@ -288,3 +288,4 @@ D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj
 D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\UserService.API.pdb
 D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
 D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.API\obj\Debug\net8.0\UserService.API.sourcelink.json

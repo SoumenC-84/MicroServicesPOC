@@ -20,3 +20,4 @@ D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Domain\
 D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Domain\obj\Debug\net8.0\refint\UserService.Domain.dll
 D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Domain\obj\Debug\net8.0\UserService.Domain.pdb
 D:\Project\MicroservicesPOC\services\UserService\backend\src\UserService.Domain\obj\Debug\net8.0\ref\UserService.Domain.dll
+D:\Project\MicroservicesPOC\services\UserService\backend\src\Userservice.Domain\obj\Debug\net8.0\UserService.Domain.sourcelink.json

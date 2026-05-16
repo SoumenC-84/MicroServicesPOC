@@ -338,3 +338,4 @@ D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.AP
 D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.API\obj\Debug\net9.0\CleanArcht.API.pdb
 D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.API\obj\Debug\net9.0\CleanArcht.API.genruntimeconfig.cache
 D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.API\obj\Debug\net9.0\ref\CleanArcht.API.dll
+D:\Project\MicroservicesPOC\services\CleanArchitecture\backend\src\CleanArcht.API\obj\Debug\net9.0\CleanArcht.API.sourcelink.json
